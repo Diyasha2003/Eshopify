@@ -208,7 +208,7 @@ include_once("paypal.php");
                 <li class="list-inline-item"><a href="AboutUs.php">About</a></li>
                 <li class="list-inline-item"><a href="PrivacyPolicy.php">Privacy Policy</a></li>
             </ul>
-            <p class="copyright">Company Name © 2021</p>
+            <p class="copyright">Eshopify © 2021</p>
         </footer>
     </div>
     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
